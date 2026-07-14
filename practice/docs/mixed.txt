@@ -1,0 +1,3 @@
+hello
+SECRET: masar is fun
+bye
